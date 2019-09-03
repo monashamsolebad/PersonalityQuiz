@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ResultsViewController.calculatePersonalityResult():ResultsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mostCommonAnswer.rawValue">
+            </PersistentString>
+            <PersistentString
+               value = "mostCommonAnswer.definition">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
